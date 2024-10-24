@@ -26,8 +26,9 @@ if (event.target == modal) {
 
 document.addEventListener("DOMContentLoaded", function() {
 const quoteBank = [
-    "Remember who you want to be, then work to be that person",
-    "You miss 100% of the shots you don't take"
+    "Remember who you want to be, then work to be that person!",
+    "Life is about being willing to help and being willing to learn!",
+    "You miss 100% of the shots you don't take!"
 ];
 
 
